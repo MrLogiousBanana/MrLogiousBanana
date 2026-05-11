@@ -2,11 +2,11 @@
   <img src="assets/Header.png" width="900" alt="MrLogiousBanana" />
 </p>
 
-<div align="center">
+<h4 align="center">
   
- #### 💻 Innovation Project Manager
+   💻 Innovation Project Manager
   
-</div><br>
+</h4><br>
 
 <p align="center">
   <a href="https://t.me/rawr_time"> <img src="assets/TG.png" height="25" alt="Telegram" /></a>
