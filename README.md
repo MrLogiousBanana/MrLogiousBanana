@@ -9,12 +9,23 @@
 </div><br>
 
 <p align="center">
-  <img href="https://t.me/rawr_time" src="assets/TG.png" height="25" alt="Telegram" />
-  <img src="assets/YT.png" height="25" alt="Youtube" />
-  <img src="assets/vk.png" height="25" alt="VKontakte" />
-  <img src="assets/TW.png" height="25" alt="Twitch" />
-  <img src="assets/BO.png" height="25" alt="Boosty" />
+  <a href="https://t.me/rawr_time">
+    <img src="assets/TG.png" height="25" alt="Telegram" />
+  </a>
+  <a href="https://youtube.com/@your_channel">
+    <img src="assets/YT.png" height="25" alt="Youtube" />
+  </a>
+  <a href="https://vk.com/your_profile">
+    <img src="assets/vk.png" height="25" alt="VKontakte" />
+  </a>
+  <a href="https://twitch.tv/your_channel">
+    <img src="assets/TW.png" height="25" alt="Twitch" />
+  </a>
+  <a href="https://boosty.to/your_page">
+    <img src="assets/BO.png" height="25" alt="Boosty" />
+  </a>
 </p>
+
 
 <!--
 **MrLogiousBanana/MrLogiousBanana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
