@@ -1,7 +1,6 @@
 <p align="center">
   <img src="assets/Header.png" width="900" alt="MrLogiousBanana" />
 </p>
-
 <div align="center">
 
  #### 💻 Innovation Project Manager
