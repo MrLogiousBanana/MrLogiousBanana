@@ -11,6 +11,9 @@
 <p align="center">
   <img src="assets/TG.png" height="25" alt="Telegram" />
   <img src="assets/YT.png" height="25" alt="Youtube" />
+  <img src="assets/VK.png" height="25" alt="VKontakte" />
+  <img src="assets/TW.png" height="25" alt="Twitch" />
+  <img src="assets/BO.png" height="25" alt="Boosty" />
 </p>
 
 <!--
