@@ -6,7 +6,7 @@
   
  #### 💻 Innovation Project Manager
   
-</div>
+</div><br>
 
 <p align="center">
   <img src="assets/TG.png" height="25" alt="Telegram" />
