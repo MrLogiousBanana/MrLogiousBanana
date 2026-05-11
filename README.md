@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Header.png" width="800" alt="MrLogiousBanana" />
+  <img src="assets/Header.png" width="1000" alt="MrLogiousBanana" />
 </p>
 
 ## Hi there 👋
