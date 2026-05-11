@@ -9,7 +9,7 @@
 </div><br>
 
 <p align="center">
-  <img src="assets/TG.png" height="25" alt="Telegram" />
+  <img href="https://t.me/rawr_time" src="assets/TG.png" height="25" alt="Telegram" />
   <img src="assets/YT.png" height="25" alt="Youtube" />
   <img src="assets/vk.png" height="25" alt="VKontakte" />
   <img src="assets/TW.png" height="25" alt="Twitch" />
