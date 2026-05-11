@@ -9,7 +9,7 @@
 </div><br>
 
 <p align="center">
-  <img src="assets/TG.png" height="10" alt="Telegram" />
+  <img src="assets/TG.png" height="50" alt="Telegram" />
 </p>
 
 <!--
