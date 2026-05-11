@@ -8,8 +8,6 @@
   
 </h4><br>
 
-<h1 align="center">Мой профиль</h1>
-
 <p align="center">
   <a href="https://t.me/rawr_time"> <img src="assets/TG.png" height="25" alt="Telegram" /></a>
   <a href="https://youtube.com/@MrLogiousBanana"> <img src="assets/YT.png" height="25" alt="Youtube" /></a>
