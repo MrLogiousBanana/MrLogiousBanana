@@ -2,7 +2,11 @@
   <img src="assets/Header.png" width="900" alt="MrLogiousBanana" />
 </p>
 
-<p align="center">## 💻 Innovation Project Manager</p>
+<div align="center">
+
+ ## 💻 Innovation Project Manager
+
+</div>
 
 <!--
 **MrLogiousBanana/MrLogiousBanana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
