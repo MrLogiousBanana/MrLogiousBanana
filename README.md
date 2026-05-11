@@ -10,6 +10,7 @@
 
 <p align="center">
   <img src="assets/TG.png" height="25" alt="Telegram" />
+  <img src="assets/YT.png" height="25" alt="Youtube" />
 </p>
 
 <!--
